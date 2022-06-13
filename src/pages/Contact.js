@@ -19,7 +19,7 @@ const Contact = () => (
         <p>Email: lighthouseofhope99@gmail.com</p>
         <p>Skype: live:.cid.311c485d1d73469</p>
         <p>Phone Number: +1 541 701 9880</p>
-        <p>Linked In: </p>
+        <p>Linked In: https://www.linkedin.com/in/giorgi-ebanoidze-98089b241</p>
         <p>Github: https://github.com/giorgiebanoidze425</p>
       </div>
       <ContactIcons />
