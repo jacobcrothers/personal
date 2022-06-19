@@ -20,7 +20,7 @@ const Contact = () => (
         <p>Skype: live:.cid.311c485d1d73469</p>
         <p>Phone Number: +1 541 701 9880</p>
         <p>Linked In: https://www.linkedin.com/in/giorgi-ebanoidze-98089b241</p>
-        <p>Github: https://github.com/giorgiebanoidze425</p>
+        <p>Github: https://github.com/giorgiebanoidze25</p>
       </div>
       <ContactIcons />
     </article>
