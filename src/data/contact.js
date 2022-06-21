@@ -12,7 +12,7 @@ const data = [
     icon: faGithub,
   },
   {
-    link: 'https://www.linkedin.com/in/giorgi-ebanoidze-98089b241',
+    link: 'https://www.linkedin.com/in/giorgi-ebanoidze-80b9b5242',
     label: 'LinkedIn',
     icon: faLinkedinIn,
   },
@@ -22,7 +22,7 @@ const data = [
     icon: faAngellist,
   },
   {
-    link: 'mailto:lighthouseofhope99@gmail.com',
+    link: 'mailto:giorgiebanoidze425@gmail.com',
     label: 'Email',
     icon: faEnvelope,
   },
