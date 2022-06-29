@@ -19,7 +19,7 @@ const Contact = () => (
         <p>Email: giorgiebanoidze425@gmail.com</p>
         <p>Skype: live:.cid.311c485d1d73469</p>
         <p>Phone Number: +1 541 701 9880</p>
-        <p>Linked In: https://www.linkedin.com/in/giorgi-ebanoidze-80b9b5242</p>
+        <p>Linked In: https://www.linkedin.com/in/giorgi-ebanoidze-ab5896243</p>
         <p>Github: https://github.com/giorgiebanoidze25</p>
       </div>
       <ContactIcons />
