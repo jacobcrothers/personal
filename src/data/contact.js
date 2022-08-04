@@ -17,7 +17,7 @@ const data = [
     icon: faLinkedinIn,
   },
   {
-    link: 'https://angel.co/u/giorgi-ebanoidze-2',
+    link: 'https://angel.co/u/giorgi-ebanoidze-3',
     label: 'Angel List',
     icon: faAngellist,
   },
