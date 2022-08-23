@@ -7,7 +7,7 @@ import { faEnvelope } from '@fortawesome/free-regular-svg-icons/faEnvelope';
 
 const data = [
   {
-    link: 'https://github.com/giorgiebanoidze25',
+    link: 'https://github.com/jacobcrothers',
     label: 'Github',
     icon: faGithub,
   },
@@ -17,12 +17,12 @@ const data = [
     icon: faLinkedinIn,
   },
   {
-    link: 'https://angel.co/u/giorgi-ebanoidze-3',
+    link: 'https://angel.co/u/jacob_crothers',
     label: 'Angel List',
     icon: faAngellist,
   },
   {
-    link: 'mailto:giorgiebanoidze425@gmail.com',
+    link: 'mailto:jacobcrothers425@gmail.com',
     label: 'Email',
     icon: faEnvelope,
   },
